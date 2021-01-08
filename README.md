@@ -38,6 +38,10 @@ git checkout master
 
 git merge mybranch
 
+git push
+
+-------------------------
+
 
 
 
