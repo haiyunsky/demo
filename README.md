@@ -32,5 +32,18 @@ git push --set-upstream origin mybranch
 
 git push
 
+---------
+
+git checkout master
+
+git merge mybranch
+
+
+
+
+
+
+
+
 
 
