@@ -26,3 +26,11 @@ git branch mybranch
 
 git checkout mybranch
 
+echo "# test branch1" >> test_branch.txt
+
+git push --set-upstream origin mybranch
+
+git push
+
+
+
