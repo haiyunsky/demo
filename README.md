@@ -21,3 +21,7 @@ git push -u origin master
 -------------------
 git pull
 
+-------------------------
+git branch mybranch
+git checkout mybranch
+
