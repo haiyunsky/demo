@@ -17,3 +17,7 @@ git commit -m "first commit"
 git remote add origin git@github.com:mskill/demo1.git
 
 git push -u origin master
+
+-------------------
+git pull
+
